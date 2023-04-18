@@ -16,8 +16,8 @@
 
 ## 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NicollyLemos&show_icons=true&count_private=true&hide_border=true&title_color=B983FF&icon_color=B983FF&text_color=c9d1d9&bg_color=0d1117" alt="Nicolly Lemos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyLemos&layout=compact&hide_border=true&title_color=B983FF&text_color=00bfbf&bg_color=0d1117" />
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicollylemos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollylemos&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ##
