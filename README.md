@@ -25,9 +25,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicollylemos&bg_color=0d1117&color=B983FF&line=E5BEEC&point=FDE2F3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
- <div style="display:inline_block">   
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6e2785cf5721667a610e28e995285286.gif" align="right" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
-  </div>
   <div>
   
   ### 💬 Converse comigo!
