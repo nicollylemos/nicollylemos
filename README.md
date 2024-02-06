@@ -9,6 +9,7 @@
   <ul>
     <li>🌟 I'm seventeen years old </li>
     <li>🖥️ 3/3 System Development </li>
+    <li>☕ I'm studying Python...</li>
     <li>🔍 Sorocaba, SP</li>
   </ul>
 </div>
@@ -24,7 +25,7 @@
 
 ##
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicollylemos&bg_color=2e2f33&color=ffd6d6&line=f7c0c0&point=fe86aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
   <div>
