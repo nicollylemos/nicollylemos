@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#C93D1&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C93D1&height=140&section=header"/>
 
 <div align="center">  
   <h1> Hello, I'm Nicolly!🐈</h1>
