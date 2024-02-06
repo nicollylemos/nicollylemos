@@ -9,7 +9,6 @@
   <ul>
     <li>🌟 I'm seventeen years old </li>
     <li>🖥️ 3/3 System Development </li>
-    <li>☕ I'm studying Python...</li>
     <li>🔍 Sorocaba, SP</li>
   </ul>
 </div>
