@@ -1,16 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B983FF&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA90DB&height=140&section=header"/>
 
 <div align="center">  
-  <h1> Olá, eu sou Nicolly Lemos!</h1>
+  <h1> Hello, I'm Nicolly!</h1>
 </div>
 
-  <h3>Sobre mim</h3>
+  <h3>About me</h3>
   <div align="left">  
   <ul>
-    <li> 🖥️ Cursando Desenvolvimento de Sistemas</li>
-    <li> 🌱 Estudando back-end...</li>
-    <li> 🐇 Tenho 16 anos</li>
-    <li>🔍 Moro em Sorocaba, SP</li>
+    <li>🌟 I'm seventeen years old </li>
+    <li>🖥️ 3/3 System Development </li>
+    <li>🔍 Sorocaba, SP</li>
   </ul>
 </div>
 
@@ -27,13 +26,13 @@
 ##
   <div>
   
-  ### 💬 Converse comigo!
+  ### 💬 Contact me here!
   <br> 
   <a href="https://www.instagram.com/diskbotijao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:nicollylemos752@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolly-lemos-880733248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ### 🚀 Linguagens 
+ ### 🚀 Languages
  
   <br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
