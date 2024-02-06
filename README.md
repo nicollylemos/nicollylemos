@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C93D1&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FC93D1&height=140&section=header"/>
 
 <div align="center">  
   <h1> Hello, I'm Nicolly!🐈</h1>
@@ -15,8 +15,8 @@
 
 ## 
 <div align="center">  
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicollylemos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollylemos&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicollylemos&show_icons=true&theme=midnight-pink&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollylemos&layout=compact&langs_count=7&theme=midnight-pink"/>
 </div>
 
 ##
