@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA90DB&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#C93D1&height=140&section=header"/>
 
 <div align="center">  
-  <h1> Hello, I'm Nicolly!</h1>
+  <h1> Hello, I'm Nicolly!🐈</h1>
 </div>
 
   <h3>About me</h3>
@@ -21,7 +21,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicollylemos&bg_color=0d1117&color=B983FF&line=E5BEEC&point=FDE2F3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ##
   <div>
