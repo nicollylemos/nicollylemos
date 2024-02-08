@@ -7,7 +7,7 @@
   <h3>About me</h3>
   <div align="left">  
   <ul>
-    <li>🌟 I'm seventeen years old </li>
+    <li>🌟 17exp </li>
     <li>🖥️ 3/3 System Development </li>
     <li>🔍 Sorocaba, SP</li>
   </ul>
