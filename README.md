@@ -7,8 +7,9 @@
   <h3>Sobre mim</h3>
   <div align="left">  
   <ul>
-    <li>🌟 17exp </li>
+    <li>🌟 17 anos</li>
     <li>🖥️ 3/3 Desenvolvimento de Sistemas</li>
+    <li>🌱 Buscando oportunidades!</li>
     <li>🔍 Sorocaba, SP</li>
   </ul>
 </div>
