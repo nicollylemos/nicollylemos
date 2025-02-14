@@ -9,7 +9,7 @@
   <ul>
     <li>🌟 18 anos</li>
     <li>📖 Téncnico em Desenvolvimento de Sistemas</li>
-    <li>🖥️ 1/4 Análise e Desenvolvimento de Sistemas</li>
+    <li>🖥️ 1/2 Análise e Desenvolvimento de Sistemas</li>
     <li>🌱 Buscando oportunidades!</li>
     <li>📍 Sorocaba, SP</li>
   </ul>
