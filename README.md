@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FC93D1&height=140&section=header"/>
 
 <div align="center">  
-  <h1> Olá, eu sou Nicolly!🐈</h1>
+  <h1> Olá, eu sou Nicolly!</h1>
 </div>
 
   <h3>Sobre mim</h3>
