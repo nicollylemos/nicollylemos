@@ -8,7 +8,9 @@
   <div align="left">  
   <ul>
     <li>📖 Téncnico em Desenvolvimento de Sistemas</li>
-    <li>🖥️ 1/2 Análise e Desenvolvimento de Sistemas</li>
+    <li>🖥️ 2/2 Análise e Desenvolvimento de Sistemas</li>
+    <li>Suporte de TI, Prefeitura de Sorocaba</li>
+    <li>Desenvolvedora FullStack, OAF Consultoria</li>
     <li>📍 Sorocaba, SP</li>
   </ul>
 </div>
